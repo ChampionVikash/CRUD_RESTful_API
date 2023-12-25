@@ -1,0 +1,34 @@
+
+1703530527059: ::ffff:127.0.0.1 GET: /api/users
+
+1703530550804: ::1 GET: /api/users
+
+1703530559127: ::1 GET: /api/users/:i3
+
+1703530563332: ::1 GET: /api/users/
+
+1703530566945: ::1 GET: /api/users
+
+1703530609074: ::ffff:127.0.0.1 GET: /api/users
+
+1703530612389: ::ffff:127.0.0.1 GET: /favicon.ico
+
+1703530615474: ::ffff:127.0.0.1 GET: /api/users
+
+1703530721103: ::ffff:127.0.0.1 POST: /api/users
+
+1703530732681: ::ffff:127.0.0.1 GET: /api/users
+
+1703530772361: ::ffff:127.0.0.1 GET: /api/users/65894ad794155c51f40c45d9
+
+1703530788969: ::ffff:127.0.0.1 GET: /api/users/
+
+1703530803783: ::ffff:127.0.0.1 DELETE: /api/users/65894ad794155c51f40c45d9
+
+1703530812253: ::ffff:127.0.0.1 GET: /api/users/65894ad794155c51f40c45d9
+
+1703530819195: ::ffff:127.0.0.1 GET: /api/users/
+
+1703530831381: ::ffff:127.0.0.1 DELETE: /api/users/6589d0e1c63bba8e731c1386
+
+1703530950814: ::ffff:127.0.0.1 DELETE: /api/users/6589d0e1c63bba8e731c1386
